@@ -31,3 +31,5 @@ D:\Curso\REST\RestWithASP-NET5Udemy\02_RestWithAPSNET5_Calculadora\Calculadora\C
 D:\Curso\REST\RestWithASP-NET5Udemy\02_RestWithAPSNET5_Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
 D:\Curso\REST\RestWithASP-NET5Udemy\02_RestWithAPSNET5_Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\Pomelo.JsonObject.dll
 D:\Curso\REST\RestWithASP-NET5Udemy\02_RestWithAPSNET5_Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculator.csproj.CopyComplete
+D:\Curso\REST\RestWithASP-NET5Udemy\02_RestWithAPSNET5_Calculadora\Calculadora\Calculadora\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Curso\REST\RestWithASP-NET5Udemy\02_RestWithAPSNET5_Calculadora\Calculadora\Calculadora\obj\Debug\net5.0\Calculator.MvcApplicationPartsAssemblyInfo.cs
