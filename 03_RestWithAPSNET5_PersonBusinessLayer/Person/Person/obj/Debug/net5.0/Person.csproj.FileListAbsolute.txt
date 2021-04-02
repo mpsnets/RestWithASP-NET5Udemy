@@ -33,3 +33,15 @@ D:\Curso\REST\RestWithASP-NET5Udemy\03_RestWithAPSNET5_PersonBusinessLayer\Perso
 D:\Curso\REST\RestWithASP-NET5Udemy\03_RestWithAPSNET5_PersonBusinessLayer\Person\Person\obj\Debug\net5.0\ref\Person.dll
 D:\Curso\REST\RestWithASP-NET5Udemy\03_RestWithAPSNET5_PersonBusinessLayer\Person\Person\obj\Debug\net5.0\Person.pdb
 D:\Curso\REST\RestWithASP-NET5Udemy\03_RestWithAPSNET5_PersonBusinessLayer\Person\Person\obj\Debug\net5.0\Person.genruntimeconfig.cache
+D:\Curso\REST\RestWithASP-NET5Udemy\03_RestWithAPSNET5_PersonBusinessLayer\Person\Person\bin\Debug\net5.0\Evolve.dll
+D:\Curso\REST\RestWithASP-NET5Udemy\03_RestWithAPSNET5_PersonBusinessLayer\Person\Person\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Curso\REST\RestWithASP-NET5Udemy\03_RestWithAPSNET5_PersonBusinessLayer\Person\Person\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Curso\REST\RestWithASP-NET5Udemy\03_RestWithAPSNET5_PersonBusinessLayer\Person\Person\bin\Debug\net5.0\Serilog.dll
+D:\Curso\REST\RestWithASP-NET5Udemy\03_RestWithAPSNET5_PersonBusinessLayer\Person\Person\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Curso\REST\RestWithASP-NET5Udemy\03_RestWithAPSNET5_PersonBusinessLayer\Person\Person\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Curso\REST\RestWithASP-NET5Udemy\03_RestWithAPSNET5_PersonBusinessLayer\Person\Person\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Curso\REST\RestWithASP-NET5Udemy\03_RestWithAPSNET5_PersonBusinessLayer\Person\Person\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Curso\REST\RestWithASP-NET5Udemy\03_RestWithAPSNET5_PersonBusinessLayer\Person\Person\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Curso\REST\RestWithASP-NET5Udemy\03_RestWithAPSNET5_PersonBusinessLayer\Person\Person\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Curso\REST\RestWithASP-NET5Udemy\03_RestWithAPSNET5_PersonBusinessLayer\Person\Person\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Curso\REST\RestWithASP-NET5Udemy\03_RestWithAPSNET5_PersonBusinessLayer\Person\Person\bin\Debug\net5.0\Serilog.Sinks.File.dll

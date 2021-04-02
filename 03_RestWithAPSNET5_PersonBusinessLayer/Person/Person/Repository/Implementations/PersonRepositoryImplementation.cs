@@ -41,7 +41,8 @@ namespace Person.Repository.Implementations
 
         public Model.Person Update(Model.Person person)
         {
-            if (!Exists(person.Id)) return new Model.Person();
+            //if (!Exists(person.Id)) return new Model.Person();
+            if (!Exists(person.Id)) return null;
 
             var result = FindById(person.Id);
 
